@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @keneab
-- 👀 I’m interested in ... Programming
+- 👀 I’m interested in ... Programming and AI
 - 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Python
+- 💞️ I’m looking to collaborate on ... Python and web dev
 
 
 <!---
